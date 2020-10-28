@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Vigener</string>
+    <string name="key_res">Введите ключ</string>
+    <string name="message_res">Сообщение</string>
+    <string name="encrypt_res">Encrypt!</string>
+</resources>
